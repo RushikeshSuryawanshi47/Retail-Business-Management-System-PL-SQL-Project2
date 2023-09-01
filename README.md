@@ -3,6 +3,6 @@ This project is to use Oracle's PL/SQL and JDBC to implement the RBMS applicatio
 
 Author :
 ---------------------------------------------------------------------------------
-shrijeet rupnar (srupnar1@binghamton.edu)
-State University of New York, Binghamton
+Rushikesh Suryawanshi (rushikeshsuryawanshi330@gmail.com)
+CDAC Pune Maharashtra 
 
